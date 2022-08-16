@@ -1,0 +1,21 @@
+{
+  "name": "editor-server",
+  "version": "1.0.0",
+  "description": "editor-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "editor-server"
+  },
+  "keywords": [
+    "editor-server"
+  ],
+  "author": "jiwonkim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
